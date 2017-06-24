@@ -20,7 +20,7 @@
 
 	<header>
 		<nav>
-			<h1>My Page</h1>
+			<h1>My Page!</h1>
 			<ul>
 				<li><a href="#">Home</a></li>
 				<li><a href="hello.php">Blog</a></li>
